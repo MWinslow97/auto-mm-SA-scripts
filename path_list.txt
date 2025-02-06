@@ -1,0 +1,8 @@
+/home/pczmw1/TESTING/path_setup/valerolactone/rotorDock/pose1/300k
+/home/pczmw1/TESTING/path_setup/caprolactone/rotorDock/pose1/300k
+/home/pczmw1/TESTING/path_setup/heptanolactone/rotorDock/pose1/300k
+/home/pczmw1/TESTING/path_setup/octanolactone/rotorDock/pose1/300k
+/home/pczmw1/TESTING/path_setup/valerolactone/rotorDock/pose1/318k
+/home/pczmw1/TESTING/path_setup/caprolactone/rotorDock/pose1/318k
+/home/pczmw1/TESTING/path_setup/heptanolactone/rotorDock/pose1/318k
+/home/pczmw1/TESTING/path_setup/octanolactone/rotorDock/pose1/318k
